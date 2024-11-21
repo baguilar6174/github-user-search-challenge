@@ -17,7 +17,7 @@ You need to install yarn. Yarn is a package and library manager.
 Step 2:
 
 ```bash
-git clone https://github.com/bryanAguilar001/github-user-search-challenge.git
+git clone https://github.com/baguilar6174/github-user-search-challenge.git
 cd github-user-search-app
 ```
 
@@ -50,12 +50,6 @@ yarn run start
 - Styled Components
 - Github Api
 
-## Author
-
-- Website - [www.bryan-aguilar.com](https://www.bryan-aguilar.com/)
-- Medium - [baguilar6174](https://baguilar6174.medium.com/)
-- LinkeIn - [baguilar6174](https://www.linkedin.com/in/baguilar6174)
-
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -63,3 +57,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Github User Search
 
 ![Github User Search](./media/github_search_app.png)
+
+## Stay in touch
+
+- Website - [www.bryan-aguilar.com](https://www.bryan-aguilar.com/)
+- Medium - [baguilar6174](https://baguilar6174.medium.com/)
+- LinkedIn - [baguilar6174](https://www.linkedin.com/in/baguilar6174)
